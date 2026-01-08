@@ -25,6 +25,6 @@ All tasks are implemented using **standard Linux tools**, following best practic
 
 ---
 
-## 📁 Repository Structure
+
 
 
